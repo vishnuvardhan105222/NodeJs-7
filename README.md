@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Player Match Scores
 
 Given two files `app.js` and a database file `cricketMatchDetails.db` consisting of three tables `player_details`, `match_details` and `player_match_score`.
@@ -202,3 +203,7 @@ Use `npm install` to install the packages.
 # NodeJs-7
 Node.js Coding Practice 7 [PLAYER MATCH SCORES]
 >>>>>>> 9c8b67d1e2af9a60cad4eff42d10427dbc7e5859
+=======
+# NodeJs-7
+Node.js Coding Practice 7 [PLAYER MATCH SCORES]
+>>>>>>> 787c631efafdefa3d2c43a5bdd598aa4f0fbdd5e
